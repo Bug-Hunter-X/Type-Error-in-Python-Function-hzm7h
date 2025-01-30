@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a common type error. The `function` adds an integer and a string, resulting in a `TypeError`. The solution shows how to handle this error using type checking and conversion.
